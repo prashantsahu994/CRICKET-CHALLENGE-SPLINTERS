@@ -50,9 +50,12 @@ HOW TO PREDICT TOP SCORER BATSMEN
 
 1.Past data is collected from cricbuzz source site.
 
-2.The main column to make conclusion was average and strike rate.
+2.The main column to make conclusion was hisghest average and strike rate.
 
 3.The clusters formed are basis on these two variable behaviour.
+
+#### for highest taking bowler has been taken on the basis of lowest average and SR of the overall match.
+
 
 CONCLUSION FOR ODI SERIES
 
