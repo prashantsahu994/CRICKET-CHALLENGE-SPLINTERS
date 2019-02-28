@@ -2,6 +2,8 @@
 
 Special note-
 
+###Original data set is Cricket challenge where all the data has been taken from various sources.
+
 1-For ODI series prediction there is not enough data to predict who is the winning team because austrailia has not visited to play in india's field much.
 
 2-India and Australia has played 7 times where india won 4 and Asutralia won 2, and these data has been taken after 2010.
@@ -50,7 +52,7 @@ HOW TO PREDICT TOP SCORER BATSMEN
 
 1.Past data is collected from cricbuzz source site.
 
-2.The main column to make conclusion was hisghest average and strike rate.
+2.The main column to make conclusion was highest average and strike rate.
 
 3.The clusters formed are basis on these two variable behaviour.
 
