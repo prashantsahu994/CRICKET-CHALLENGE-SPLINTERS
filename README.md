@@ -18,9 +18,13 @@ Australia to avaoid biasing of the dataset.
 DATA SELECTION
 
 1-rediff cricket & cricbuzz are the main sources from where data is collected for further analysis and predictions.
+
 2-The data present over here in a proper manner between australia and india all matches played.
+
 3-we have also taken the data overall against every team so we can avoide biasing.
+
 4-also we have seen many of the players are debut in ODI series so there is no source of previous data, we have taken 0 rather than taking NA values.
+
 
 
 DATA CLEANING
@@ -43,5 +47,8 @@ The result was evaluated on the basis of cluster behaviour and their response.
 for take a case :->
 HOW TO PREDICT TOP SCORER BATSMEN
 1.past data is collected from cricbuzz source site.
+
 2.the main column to make conclusion was average and strike rate.
+
 3.the clusters formed are basis on these two variable behaviour.
+
