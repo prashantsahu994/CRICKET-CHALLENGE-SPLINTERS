@@ -45,7 +45,9 @@ EVALUATION
 
 The result was evaluated on the basis of cluster behaviour and their response.
 for take a case :->
+
 HOW TO PREDICT TOP SCORER BATSMEN
+
 1.Past data is collected from cricbuzz source site.
 
 2.The main column to make conclusion was average and strike rate.
