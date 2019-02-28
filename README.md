@@ -46,11 +46,11 @@ EVALUATION
 The result was evaluated on the basis of cluster behaviour and their response.
 for take a case :->
 HOW TO PREDICT TOP SCORER BATSMEN
-1.past data is collected from cricbuzz source site.
+1.Past data is collected from cricbuzz source site.
 
-2.the main column to make conclusion was average and strike rate.
+2.The main column to make conclusion was average and strike rate.
 
-3.the clusters formed are basis on these two variable behaviour.
+3.The clusters formed are basis on these two variable behaviour.
 
 CONCLUSION FOR ODI SERIES
 
