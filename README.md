@@ -1,10 +1,15 @@
 #Sports Analytics Hackathon
 
 Special note-
+
 1-For ODI series prediction there is not enough data to predict who is the winning team because austrailia has not visited to play in india's field much.
+
 2-India and Australia has played 7 times where india won 4 and Asutralia won 2, and these data has been taken after 2010.
+
 3-After compilation of these data india's win prediction 57% and australia win chances is 28%.
+
 4-Many of the players are debuted and new to play this series against each other so there is no specific data which will affect the win or loose of any team.
+
 
 
 After ODI series prediction data has taken from Cricbuzz source where each player's data has taken against overall team not against just 
